@@ -1,4 +1,10 @@
 {
-  "verified": [],
+  "verified": [
+    {
+      "name": "hola",
+      "file": "verified/hola.sh",
+      "version": "1.0"
+    }
+  ],
   "unverified": []
 }
